@@ -18,7 +18,9 @@ pip3 install -r requirements.txt
 python3 bot.py
 ~~~
 
-Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu# ⚙ Əmrlər :
+Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu# 
+
+⚙ Əmrlər :
 
 **Əmr :** ```/ForceSubscribe @KanalTağı``` 
 **İstifadə :** Kanalı qrupa bağlamaq üçün.
