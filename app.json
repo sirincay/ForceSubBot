@@ -1,0 +1,46 @@
+{
+  "name": "ForceSubBot-Heroku",
+  "description": "Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu!",
+  "logo": "https://telegra.ph/file/726e9af91d30fc6ef5d52.jpg",
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Fsub",
+    "Qrup",
+    "Kanal"
+  ],
+  "repository": "https://github.com/sirincay/ForceSubBot",
+  "website": "TeslaGame.tk",
+  "success_url": "t.me/FsubBot",
+  "env": {
+    "APP_ID": {
+      "description": "my.telegram.org Adresindən Götürün",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "my.telegram.org Adresindən Götürün",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Token Alın: @BotFather.",
+      "value": ""
+    }
+  },
+  "addons": [
+    {
+    "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+  "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
