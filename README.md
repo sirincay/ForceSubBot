@@ -3,8 +3,7 @@
 <h1 align="center"><b>@FsubBot</b></h1>
 <h4 align="center">Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən Telegram Botu</h4>
 
-# 🤖 Demo :
-Telegramdakı Nümunəsi [@FSubBot](https://t.me/FsubBot)
+# 🤖 Demo : Telegramdakı Nümunəsi [@FSubBot](https://t.me/FsubBot)
 
 # 👨‍💻 Qurulum:
 ### Heroku ilə Asan Yol
