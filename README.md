@@ -11,11 +11,12 @@ Telegramdakı Nümunəsi [@FSubBot](https://t.me/FsubBot)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay2/ForceSubBot/tree/main)
 
 ### -Normal Yol
-```python3
+python3
 git clone https://github.com/sirincay/FSubBot
 cd FSubBot
 pip3 install -r requirements.txt
 python3 bot.py
+
 ```Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu# ⚙ Əmrlər :
 
 **Əmr :** ```/ForceSubscribe @KanalTağı``` <br />
@@ -29,8 +30,3 @@ python3 bot.py
 
 **Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur) <br />
 **İstifadə :** Məcburi Abunə'ni Deaktiv Etmək.. <br />
-
-
-## 👨‍💻 Müəllif :
-[@HusnuEhedov](https://t.me/husnuehedov)
-
