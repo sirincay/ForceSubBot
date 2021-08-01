@@ -1,4 +1,4 @@
-# Məcburi Abunə Botu :
+# Məcburi Abunə Telegram Botu 
 <p align="center"><a href="#"><img src="https://telegra.ph/file/726e9af91d30fc6ef5d52.jpg" width="250"></a></p> 
 <h1 align="center"><b>@FsubBot</b></h1>
 <h4 align="center">Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən Telegram Botu</h4>
