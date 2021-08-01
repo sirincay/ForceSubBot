@@ -6,8 +6,8 @@
 # 🤖 Demo :
 Telegramdakı Nümunəsi [@FSubBot](https://t.me/FsubBot)
 
-# 👨‍💻 Sade Heroku Qurulum:
-### Asan Yol
+# 👨‍💻 Qurulum:
+### Heroku ilə Asan Yol
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay2/ForceSubBot/tree/main)
 
 ### Servere Qurulum
