@@ -18,19 +18,16 @@ pip3 install -r requirements.txt
 python3 bot.py
 ~~~
 
-```Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu# ⚙ Əmrlər :
+Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu# ⚙ Əmrlər :
 
-**Əmr :** ```/ForceSubscribe @KanalTağı``` <br/>
-**İstifadə :** Kanalı qrupa bağlamaq üçün.<br/>
+**Əmr :** ```/ForceSubscribe @KanalTağı``` 
+**İstifadə :** Kanalı qrupa bağlamaq üçün.
 
-**Əmr :** ```/fsub yada /ForceSubscribe``` <br/>
-**İstifadə :** Eyni Prosesi Həyata Keçirirlər. <br/>
+**Əmr :** ```/fsub yada /ForceSubscribe```
+**İstifadə :** Eyni Prosesi Həyata Keçirirlər.
 
-**Əmr :** ```/fsub clear``` <br/>
+**Əmr :** ```/fsub clear```
 **İstifadə :** Bot Tərəfindən Səssizə Alınan Bütün Üzvlərin Səsini Açmaq. <br/>
 
-**Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur) <br/>
-**İstifadə :** <br>Məcburi Abunə'ni Deaktiv Etmək.. <br/>
-
-👨‍💻 Müəllif :
-[@HusnuEhedov](https://t.me/husnuehedov)
+**Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur)
+**İstifadə :** <br>Məcburi Abunə'ni Deaktiv Etmək..
