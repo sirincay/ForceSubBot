@@ -30,7 +30,7 @@ python3 bot.py
 **İstifadə :** Bot Tərəfindən Səssizə Alınan Bütün Üzvlərin Səsini Açmaq. <br/>
 
 **Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur) <br/>
-**İstifadə :** Məcburi Abunə'ni Deaktiv Etmək.. <br/>
+**İstifadə :** <br>Məcburi Abunə'ni Deaktiv Etmək.. <br/>
 
 👨‍💻 Müəllif :
 [@HusnuEhedov](https://t.me/husnuehedov)
