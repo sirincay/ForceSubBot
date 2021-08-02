@@ -19,7 +19,7 @@ python3 bot.py
 
 Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanala qoşulmağa məcbur edən bir Telegram Botu
 
-#⚙ Əmrlər :
+# ⚙ Əmrlər :
 
 **Əmr :** ```/ForceSubscribe @KanalTağı``` 
 **İstifadə :** Kanalı qrupa bağlamaq üçün.
@@ -30,8 +30,7 @@ Bir qrupda mesaj göndərməzdən əvvəl istifadəçiləri müəyyən bir kanal
 **Əmr :** ```/fsub clear```
 **İstifadə :** Bot Tərəfindən Səssizə Alınan Bütün Üzvlərin Səsini Açmaq. <br/>
 
-**Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur)
-**İstifadə :** <br>Məcburi Abunə'ni Deaktiv Etmək..
+**Əmr :** ```/fsub on/off/disable``` (Fərqi Yoxdur) Məcburi Abunə'ni Deaktiv Etmək..
 
 👨‍💻 Müəllif :
 [@HusnuEhedov](https://t.me/husnuehedov)
